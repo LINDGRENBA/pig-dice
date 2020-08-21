@@ -10,7 +10,7 @@ _This is a dice game translated to a webpage. Roll a dice and you get that many 
 
 ## Demo 
 (Middle of game has been skipped over for brevity! Player one's score does not actually go from 0 to 93!!!)
-![A Pig Dice demo]()
+![A Pig Dice demo](img/demo.gif)
 
 ## Setup/Installation Requirements
 
