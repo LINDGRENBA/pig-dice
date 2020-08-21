@@ -9,7 +9,7 @@
 _This is a dice game translated to a webpage. Roll a dice and you get that many points. Roll as many times as you'd like and add the points up. If you roll a 1 you lose all your points from that turn and give the dice to the next player. At any point before rolling a 1 you may choose to hold, add the points to your total and give the dice to the next player. 1st to 100 points wins_
 
 ## Demo 
-The middle of game has been skipped over for brevity! Player one's score does not actually go from 0 to 93!!!)
+The middle of the game has been omitted for the sake of brevity. Player 1s score does not actually go from 0 to 93!
 ![A Pig Dice demo](img/demo.gif)
 
 ## Setup/Installation Requirements
